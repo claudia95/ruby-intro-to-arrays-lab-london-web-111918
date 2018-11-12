@@ -1,3 +1,4 @@
-instantiate_new_array = Array.new 
-return instantiate_new_array
-
+def instantiate_new_array
+  my_array = []
+  return my_array
+end

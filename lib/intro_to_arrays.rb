@@ -20,8 +20,10 @@ def last_element(array)
   array[-1]
 end
 
-def first_element_with_array_methods
-  
+def first_element_with_array_methods(south_east_asia)
+  south_east_asia.first
 end
 
-def last_element_with_array_methods
+def last_element_with_array_methods(south_east_asia)
+  south_east_asia.last 
+end
